@@ -1,4 +1,4 @@
-# fitnessTracker# Quiet Sands: Help in the New Year![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
+# fitnessTracker
 
 ## Description
 Fitness Tracker that helps track data over a period of time.
