@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.use(express.static("public"));
-
+// setting up my heroku
 mongoose.connect(process.env.MONGO_DB_WORKOUT || "mongodb://localhost/workout", {
   useNewUrlParser: true,
   useFindAndModify: false
